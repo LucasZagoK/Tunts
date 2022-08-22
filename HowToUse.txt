@@ -1,0 +1,5 @@
+Necessary commands:
+
+- Run on terminal workspace: 
+./gradlew.bat build 
+./gradlew run

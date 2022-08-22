@@ -130,7 +130,7 @@ public class App {
     public static void initLogger() {
         FileHandler fh;
         try {
-            fh = new FileHandler(System.getProperty("user.dir")+"/app/ActivityLog.log");
+            fh = new FileHandler(System.getProperty("user.dir")+"/ActivityLog.log");
 
             log.addHandler(fh);
             SimpleFormatter formatter = new SimpleFormatter();
