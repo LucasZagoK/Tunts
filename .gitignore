@@ -2,7 +2,8 @@
 .gradle
 
 # Ignore Sensentive Files
-/credentials.json
+.credentials.json
+resources/
 tokens/
 bin/
 
