@@ -1,5 +1,8 @@
 # Ignore Gradle project-specific cache directory
 .gradle
+app/tokens/
+tokens/
+app/src/main/resources/credentials.json
 
 # Ignore Sensentive Files
 .credentials.json
