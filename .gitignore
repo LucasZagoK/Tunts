@@ -4,6 +4,7 @@
 # Ignore Sensentive Files
 .credentials.json
 tokens/
+bin/
 
 # Ignore Gradle build output directory
 build
